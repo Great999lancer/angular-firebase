@@ -1,0 +1,14 @@
+node_modules/
+dist/
+dist-test/
+docs/api/
+typings/
+npm-debug.log
+.idea/
+.vscode/settings.json
+angularfire2-*.tgz
+*.ngfactory.ts
+*.ngsummary.json
+.DS_Store
+yarn-error.log
+*.bak
